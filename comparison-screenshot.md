@@ -1,5 +1,8 @@
 # Conditions of the Comparison Screenshot of BadPCMC:
 
+![Comparison Screenshot](https://raw.githubusercontent.com/realmodpacks/badpcmc/refs/heads/main/BadPC-MC-FPS.png)
+
+
 ## Location of the screenshot
 
 Both Comparison Screenshots were taken on the same Minecraft Server on the same place where are many entities (Item Frames, Signs, Chests and other Entities) after waiting a bit for the FPS to stabilize.
