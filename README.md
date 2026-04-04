@@ -28,6 +28,10 @@ And many more utility mods like `Cloth Config v20`, `Fabric API`, `Forge Config 
 
 If your PC struggles to run Minecraft, **BadPCMC** is the **ultimate lag fix** and **FPS booster** – your solution to finally enjoy a smooth, playable game.
 
+## Comparison Screenshot
+
+[![Comparison Screenshot](https://raw.githubusercontent.com/realmodpacks/badpcmc/refs/heads/main/BadPC-MC-FPS.png)*](https://github.com/realmodpacks/badpcmc/blob/main/comparison-screenshot.md)
+
 ## Mod List:
 
 > - [3d-Skin-Layers](https://modrinth.com/mod/zV5r3pPn) [1.11.1] by tr7zw
