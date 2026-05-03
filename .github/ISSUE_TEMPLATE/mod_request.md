@@ -18,9 +18,7 @@ body:
     id: modrinth_link
     attributes:
       label: Modrinth Link
-      description: >
-        **Only Modrinth links are accepted.**  
-        Paste the full URL to the mod’s Modrinth page.
+      description: Only Modrinth links are accepted. Paste the full URL to the mod’s Modrinth page.
       placeholder: https://modrinth.com/mod/sodium
     validations:
       required: true
@@ -65,9 +63,7 @@ body:
     id: reason
     attributes:
       label: Why should this be added?
-      description: >
-        Explain how this mod improves performance, fixes an issue, or fills a gap
-        that the current BadPCMC pack doesn’t cover.
+      description: Explain how this mod improves performance, fixes an issue, or fills a gap that the current BadPCMC pack doesn’t cover.
     validations:
       required: true
 
